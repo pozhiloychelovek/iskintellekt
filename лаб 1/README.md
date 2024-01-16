@@ -57,3 +57,5 @@
 1. Вставить в гугл колаб, датасет: !git clone https://github.com/лаб 1/7817_1.csv
    Ссылка на датасет: https://drive.google.com/file/d/13d7grWnrdZWPapw2aQfMPUas-a6wWXYF/view?usp=drive_link
 ** с гитклоном не совсем понимаю как делать, возможно косячно**
+#### Ссылки на используемые ресурсы.
+Я пользовался материалом отсюда (https://webdevblog.ru/tematicheskoe-modelirovanie-s-pomoshhju-gensim-python/). 
