@@ -49,9 +49,10 @@
 
 ---
 
-![1234](https://github.com/pozhiloychelovek/iskintellekt/assets/127489085/fec01f5b-4cde-4171-9201-b499ec09fc71)
+![image](https://github.com/pozhiloychelovek/iskintellekt/assets/127489085/ffe1ede9-9703-4054-8e61-e5bcdf4b4519)
 
-Каждый пузырь на левом графике представляет тему. Чем больше пузырь, тем больше распространена эта тема.
+
+Каждый пузырь слева представляет тему. Чем больше пузырь, тем более популярна тема (а значит и товар).
 
 Хорошая тематическая модель будет иметь довольно большие непересекающиеся пузыри, разбросанные по всей диаграмме, а не сгруппированные в одном квадранте.
 
@@ -66,7 +67,8 @@
 ![image](https://github.com/pozhiloychelovek/iskintellekt/assets/127489085/a698e20b-e8de-42e1-afa4-e1d2dabbbc1d)
 
 Выбираем лучший вариант (на основе значений Alpha и coherence) и создаем ещё раз модель.
-![image](https://github.com/pozhiloychelovek/iskintellekt/assets/127489085/137935a9-76cc-493e-bf40-a59491951b64)
+![image](https://github.com/pozhiloychelovek/iskintellekt/assets/127489085/f3a068b7-a9ce-4476-9eda-4960b27619b0)
+
 
 Теперь мы получили топ из 6 тем с оптимальным значением связанности, где в каждой теме показаны топ 30 слов которые используются наиболее часто о товаре.
 
